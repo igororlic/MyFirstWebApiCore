@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFirstWebApiCore", "MyFirstWebApiCore\MyFirstWebApiCore.csproj", "{D494F893-32F9-4BDB-AC52-86EFEEF6DD80}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFirstWebMvcCore", "MyFirstWebMvcCore\MyFirstWebMvcCore.csproj", "{ED2BD504-7738-490A-9DD1-8B23BC0F8214}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{D494F893-32F9-4BDB-AC52-86EFEEF6DD80}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D494F893-32F9-4BDB-AC52-86EFEEF6DD80}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D494F893-32F9-4BDB-AC52-86EFEEF6DD80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED2BD504-7738-490A-9DD1-8B23BC0F8214}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED2BD504-7738-490A-9DD1-8B23BC0F8214}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED2BD504-7738-490A-9DD1-8B23BC0F8214}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED2BD504-7738-490A-9DD1-8B23BC0F8214}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
